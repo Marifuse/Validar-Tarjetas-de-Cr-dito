@@ -1,0 +1,10 @@
+<imput> type = "text" size = "25" />
+<button type="submit" name="question (this)">"Ingrese su número de Tarjeta de Credito aquí"</button>
+
+while ((sumResult % 10) == 0) {
+  var question = prompt("Ingrese su número de Tarjeta de Credito aquí");
+  alert("Su número de Tarjeta es VÁLIDO");
+}
+
+if((empty % 10) == "") {
+alert("Su número de Tarjeta es INVÁLIDO. Favor ingresar un número válido");
